@@ -25,4 +25,4 @@ main()
 	 cout<<nas<<" nas "<<sar1<<" sar "<<udur<<" honogtoi.";
 }
 
-/*internetees olson code. Code-oo mash sain oilgoj baigaach uuruu ingej setgeed olj chadahgui bna. Yaj ingej setgedeg boloh ve?
+
